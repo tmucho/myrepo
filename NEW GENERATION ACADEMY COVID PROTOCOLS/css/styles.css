@@ -1,0 +1,23 @@
+body {
+    color: black;
+    text-align: justify;
+    font-family: "Tohoma";
+    background-color: burlywood;
+  }
+  h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+  }
+  img{ width:500 ;
+     height: 600;
+
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+  ul{
+      list-style-type: disc;
+  }
