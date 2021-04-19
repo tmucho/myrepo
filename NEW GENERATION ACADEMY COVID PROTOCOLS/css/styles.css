@@ -1,8 +1,18 @@
-body {
+#rcorner {
+  border-radius: 10px;
+  border: 2px solid #8edb23;
+  padding: 20px; 
+  width: 200px;
+  height: 150px; 
+}
+
+
+body 
+{
     color: black;
     text-align: justify;
     font-family: "Tohoma";
-    background-image: url("/img/cvdinjection.jpg");
+   
     background-color: burlywood;
     width: fit-content;
     padding: auto;
@@ -30,13 +40,14 @@ body {
 
   }
 
-  img.injection{
-    float:right;
+  img.INJECTION{
+    float: left;
   }
 
   table, th, td {
     border: 1px solid black;
     align-items: baseline;
+    
   }
   ul{
       list-style-type: disc;
@@ -78,5 +89,5 @@ body {
     height:fit-content;
     padding: 20 solid blue;
   }
-    
+  
   
