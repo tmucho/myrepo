@@ -2,7 +2,7 @@
 
 .gridcon {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto auto auto auto;
   grid-gap: 20px;
   background-color: #2196F3;
   padding: 20px;
