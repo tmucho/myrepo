@@ -2,19 +2,18 @@
 
 .gridcon {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: 200px  200px  200px  200px  200px ;
   grid-gap: 20px;
   background-color: #2196F3;
   padding: 20px;
 }
-.item{
-  background-color: blue;
-  border: 1px salmon;
-  padding:10px;
-  font-size: 20px;
+.gridcon> div{
+  background-color: rgba(255, 255, 255, 255, 0.8);
   text-align: center;
-}
+  padding: 20px 0;
+  font-size: 30px;
 
+}
 
 #rcorner {
   border-radius: 10px;
